@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123shahan&label=Profile%20views&color=0e75b6&style=flat" alt="123shahan" /> </p>
 
-- 🔭 I’m currently working on [Labour Booking Online Portal](https://www.labourbook.online/)
 
 - 🌱 I’m currently learning **React and Backend languages.**
 
